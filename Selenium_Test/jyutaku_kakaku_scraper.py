@@ -30,7 +30,7 @@ options.add_experimental_option("prefs", prefs)
 #driver = webdriver.Chrome(chromedriver_path, options=options)
 driver = webdriver.Chrome(options=options)
 
-driver.get('https://suumo.jp/chukoikkodate/chiba/sc_matsudo/')
+driver.get('https://〇〇')
 
 #aa = driver.find_element(By.CLASS_NAME, 'dottable-value')
 
