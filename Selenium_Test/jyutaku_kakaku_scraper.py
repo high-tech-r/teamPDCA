@@ -180,6 +180,7 @@ def fnc_main():
         while click_next_btn(driver):
             read_one_page(driver, bukken_list)
 
+           
     # ブラウザーを終了
     driver.quit()
 
